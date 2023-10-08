@@ -1,0 +1,70 @@
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\appsettings.Development.json
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\appsettings.json
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\DotNet Task.exe
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\DotNet Task.deps.json
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\DotNet Task.runtimeconfig.json
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\DotNet Task.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\DotNet Task.pdb
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Azure.Core.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Cosmos.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\DAL.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\DAL.pdb
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.csproj.AssemblyReference.cache
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.AssemblyInfoInputs.cache
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.AssemblyInfo.cs
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.csproj.CoreCompileInputs.cache
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.MvcApplicationPartsAssemblyInfo.cs
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.MvcApplicationPartsAssemblyInfo.cache
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\staticwebassets\msbuild.DotNet Task.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\staticwebassets\msbuild.build.DotNet Task.props
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DotNet Task.props
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DotNet Task.props
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\scopedcss\bundle\DotNet Task.styles.css
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.csproj.CopyComplete
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\refint\DotNet Task.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.pdb
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.genruntimeconfig.cache
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\ref\DotNet Task.dll
