@@ -58,6 +58,44 @@ namespace DotNet_Task.Controllers
 
         }
 
+        [HttpPut("UpdateProgram")]
+        public ActionResult UpdateProgram(ProgramDetails details)
+        {
+            try
+            {
+                if (details == null)
+                    return BadRequest("Invalid Data Provided");
+                var program = _services.GetProgram(details.id);
+                if (program == null)
+                    return BadRequest();
+
+                program.title = details.title;
+                program.type = details.type;
+                program.summary = details.summary;
+                program.description = details.description;
+                program.skills = details.skills;
+                program.benefits = details.benefits;
+                program.criteria = details.criteria;
+                program.location = details.location;
+                program.duration = details.duration;
+                program.isRemote = details.isRemote;
+                program.maxApplicants = details.maxApplicants;
+                program.minQualifications = details.minQualifications;
+                program.programStart = details.programStart;
+                program.applicationStart = details.applicationStart;
+                program.applicationEnd = details.applicationEnd;
+
+                _context.ProgramDetails.Update(program);
+                _context.SaveChanges();
+                return Ok(program);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500);
+            }
+
+        }
+
         //Logic for workflow tab
         [HttpPut("SaveWorkflow")]
         public ActionResult SaveWorkflow(List<WorkflowStages> workflowStages)
@@ -83,7 +121,7 @@ namespace DotNet_Task.Controllers
                         c.isShownToCandidate = x.isShownToCandidate;
                         workflowStages.Remove(x);
                     });
-                    
+
                     //Add all new stages
                     foreach (var stage in workflowStages)
                     {
