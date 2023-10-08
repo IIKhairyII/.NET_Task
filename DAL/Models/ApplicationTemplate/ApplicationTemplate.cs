@@ -14,7 +14,6 @@ namespace DAL.Models.ApplicationTemplate
         public ProfileInfoDTO? education { get; set; }
         public ProfileInfoDTO? experience { get; set; }
         public ProfileInfoDTO? resume { get; set; }
-        public string? imageUrl { get; set; }
         public List<Questions>? questions { get; set; }
     }
 }

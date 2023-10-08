@@ -101,7 +101,7 @@ namespace DotNet_Task.Controllers
         //Logic for Application form template
 
         [HttpPut("SaveTemplate")]
-        public ActionResult SaveTemplate(ApplicationTemplate template, IFormFile image)
+        public ActionResult SaveTemplate(ApplicationTemplate template)
         {
             try
             {
@@ -112,7 +112,7 @@ namespace DotNet_Task.Controllers
                 if (program == null)
                     return BadRequest("Invalid program id");
 
-                if (template.questions.Count() > 0)
+                if (template.questions != null && template.questions.Count() > 0)
                 {
                     template.questions.ForEach(x =>
                     {
@@ -164,14 +164,14 @@ namespace DotNet_Task.Controllers
 
                     var dirInfo = new DirectoryInfo(folderPath);
                     var files = dirInfo.GetFiles();
-                    foreach ( var file in files)
+                    foreach (var file in files)
                     {
                         string url = Request.Scheme + "://" + Request.Host + "/api/program_manager/download?title=" + program.title + "&id=" + program.id + "&name=" + file.Name;
                         program.imageUrl = url;
                     }
                     _context.ProgramDetails.Update(program);
                     _context.SaveChanges();
-                    return Ok(new { imageUrl = string.Empty }); ;
+                    return Ok(new { imageUrl = program.imageUrl }); ;
                 }
                 return BadRequest("Error Occured");
 
