@@ -15,5 +15,6 @@
         public DateTime? programStart { get; set; }
         public DateTime applicationStart { get; set; }
         public DateTime applicationEnd { get; set; }
+        public string? imageUrl { get; set; }
     }
 }

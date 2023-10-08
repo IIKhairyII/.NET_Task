@@ -4,6 +4,7 @@ namespace DAL.Models.ApplicationTemplate
 {
     public class ApplicationTemplate
     {
+        public string programId { get; set; }
         public PersonalInfoDTO? phone { get; set; }
         public PersonalInfoDTO? nationality { get; set; }
         public PersonalInfoDTO? residence { get; set; }
@@ -14,5 +15,6 @@ namespace DAL.Models.ApplicationTemplate
         public ProfileInfoDTO? experience { get; set; }
         public ProfileInfoDTO? resume { get; set; }
         public string? imageUrl { get; set; }
+        public List<Questions>? questions { get; set; }
     }
 }

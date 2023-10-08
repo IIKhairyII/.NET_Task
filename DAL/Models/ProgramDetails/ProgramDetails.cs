@@ -24,6 +24,8 @@ namespace DAL.Models
         public DateTime? programStart { get; set; }
         public DateTime applicationStart { get; set; }
         public DateTime applicationEnd { get; set; }
+        public string? imageUrl { get; set; }
         public List<WorkflowStages>? WorkflowStages { get; set; }
+        public ApplicationTemplate.ApplicationTemplate? ApplicationTemplate { get; set; }
     }
 }

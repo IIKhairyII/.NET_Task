@@ -435,6 +435,19 @@
           }
         }
       },
+      "MimeMapping/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MimeMapping.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/MimeMapping.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "NETStandard.Library/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -2795,6 +2808,22 @@
         "runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll",
         "runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.xml",
         "useSharedDesignerContext.txt"
+      ]
+    },
+    "MimeMapping/2.0.0": {
+      "sha512": "hJRJLm91AF3OSs61y3uVZ5e2NRbq9bj0X2FS5q2PKUifP0T2Eu0FsdRL9gXa537tFQIKf+2TANkzsW2s0BZenA==",
+      "type": "package",
+      "path": "mimemapping/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net461/MimeMapping.dll",
+        "lib/net461/MimeMapping.xml",
+        "lib/netstandard2.0/MimeMapping.dll",
+        "lib/netstandard2.0/MimeMapping.xml",
+        "mimemapping.2.0.0.nupkg.sha512",
+        "mimemapping.nuspec"
       ]
     },
     "NETStandard.Library/1.6.1": {
@@ -7004,6 +7033,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "DAL >= 1.0.0",
+      "MimeMapping >= 2.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -7055,6 +7085,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "MimeMapping": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.2.3, )"

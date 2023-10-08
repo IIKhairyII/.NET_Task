@@ -68,3 +68,4 @@ D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\refint\Dot
 D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.pdb
 D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\DotNet Task.genruntimeconfig.cache
 D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\obj\Debug\net6.0\ref\DotNet Task.dll
+D:\Ibrahim\Capital Placement\DotNet Task\DotNet Task\bin\Debug\net6.0\MimeMapping.dll

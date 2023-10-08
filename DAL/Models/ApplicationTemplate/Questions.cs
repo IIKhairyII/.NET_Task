@@ -1,32 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DAL.Models.ApplicationTemplate
+﻿namespace DAL.Models.ApplicationTemplate
 {
     public class Questions
     {
-        public int type { get; set; }
+        public byte? type { get; set; }
         public string? question { get; set; }
-        public byte questionFor { get; set; } //Personal, Profile Infos or an additional question
+        public byte? questionForSection { get; set; } //Personal, Profile Infos or an additional question
+        public QuestionsChoices? choices { get; set; }
 
-        protected enum questionSection
+        public enum questionSection
         {
             personal = 1,
             profile = 2,
             additional = 0
         }
-        protected enum questionType
+        public  enum questionType
         {
             paragraph,
             shortAnswer,
-            yesNo,
-            dropDown,
-            multiChoice,
             date,
-            number
+            number,
+            dropDown = 10,
+            multiChoice = 11,
+            yesNo= 12
         }
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V7FkAKHJfMKfZjuYqaLJzZR8Dw+1ymS2tyINbv7DVXVEjOsSddvefrfM7r1q3yu+10GSg2GsIsT250U0lVygXw==",
+  "dgSpecHash": "cgnX5Q2SlEA5a6C2M7/5nWdTr8b6LCftdk3Nyfl8ceR+Y5IHSuFCBYZtb4uQPo+Z9NTtd8wY2FxWTyQbhxJ9HA==",
   "success": true,
   "projectFilePath": "D:\\Ibrahim\\Capital Placement\\DotNet Task\\DotNet Task\\DotNet Task.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\Karim\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Karim\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Karim\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Karim\\.nuget\\packages\\mimemapping\\2.0.0\\mimemapping.2.0.0.nupkg.sha512",
     "C:\\Users\\Karim\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Karim\\.nuget\\packages\\newtonsoft.json\\10.0.2\\newtonsoft.json.10.0.2.nupkg.sha512",
     "C:\\Users\\Karim\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
